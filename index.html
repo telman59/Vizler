@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Vizler</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+<header>
+    <div class="logo">Vizler</div>
+    <div class="lang-switch">
+        <button onclick="setLang('en')">EN</button>
+        <button onclick="setLang('ru')">RU</button>
+    </div>
+</header>
+
+<section class="hero">
+    <div class="hero-text">
+        <h1 data-en="Independent Researcher" data-ru="Независимый исследователь">
+            Independent Researcher
+        </h1>
+
+        <p data-en="Exploring knowledge, health, systems and life through experience and reflection."
+           data-ru="Размышляю о знаниях, здоровье, системном мышлении и жизненном опыте.">
+           Exploring knowledge, health, systems and life through experience and reflection.
+        </p>
+
+        <div class="buttons">
+            <a href="#about" data-en="About" data-ru="О проекте">About</a>
+            <a href="#blog" data-en="Blog" data-ru="Блог">Blog</a>
+            <a href="#research" data-en="Research" data-ru="Исследования">Research</a>
+        </div>
+    </div>
+
+    <div class="hero-image">
+        <img src="assets/photo.jpg" alt="Vizler">
+    </div>
+</section>
+
+<section id="about">
+    <h2 data-en="About" data-ru="О проекте">About</h2>
+    <p data-en="I share practical reflections on health, learning, discipline and scientific thinking. This website is a personal space where research meets real life."
+       data-ru="Я делюсь практическими размышлениями о здоровье, обучении, дисциплине и научном мышлении. Этот сайт — личное пространство, где исследования встречаются с реальной жизнью.">
+       I share practical reflections on health, learning, discipline and scientific thinking. This website is a personal space where research meets real life.
+    </p>
+</section>
+
+<section id="blog">
+    <h2 data-en="Blog" data-ru="Блог">Blog</h2>
+
+    <article>
+        <h3 data-en="How to maintain health after 40" data-ru="Как сохранить здоровье после 40">How to maintain health after 40</h3>
+        <p data-en="Tips from personal experience on staying fit and energized." 
+           data-ru="Советы из личного опыта о том, как оставаться в форме и полным энергии.">
+           Tips from personal experience on staying fit and energized.
+        </p>
+    </article>
+
+    <article>
+        <h3 data-en="Discipline vs Motivation" data-ru="Дисциплина против мотивации">Discipline vs Motivation</h3>
+        <p data-en="Why consistent habits beat short-term motivation." 
+           data-ru="Почему постоянные привычки важнее краткосрочной мотивации.">
+           Why consistent habits beat short-term motivation.
+        </p>
+    </article>
+
+    <article>
+        <h3 data-en="Systematic Learning" data-ru="Системное обучение">Systematic Learning</h3>
+        <p data-en="Approaches to mastering complex topics step by step." 
+           data-ru="Подходы к поэтапному освоению сложных тем.">
+           Approaches to mastering complex topics step by step.
+        </p>
+    </article>
+</section>
+
+<section id="research">
+    <h2 data-en="Research" data-ru="Исследования">Research</h2>
+
+    <article>
+        <h3>Paper 1: Cognitive Patterns</h3>
+        <p>Analytical notes on learning strategies. <a href="#" target="_blank">PDF</a></p>
+    </article>
+
+    <article>
+        <h3>Paper 2: Health & Lifestyle</h3>
+        <p>Reflections on maintaining energy and productivity. <a href="#" target="_blank">PDF</a></p>
+    </article>
+
+    <article>
+        <h3>Paper 3: System Thinking</h3>
+        <p>Notes on building frameworks for decision-making. <a href="#" target="_blank">PDF</a></p>
+    </article>
+</section>
+
+<footer>
+    <p>© 2026 Vizler</p>
+</footer>
+
+<script src="script.js"></script>
+</body>
+</html>
