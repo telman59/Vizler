@@ -1,0 +1,4 @@
+TJ: Компьютерная илм | Саҳифа дар бораи назария ва таҷрибаи илмҳои компютерӣ
+UZ: Kompyuter fanlari | Sahifa kompyuter fanlari nazariyasi va tajribasi haqida
+EN: Computer Science | Page about computer science theory and practice
+RU: Компьютерная наука | Страница о теории и практике компьютерных наук

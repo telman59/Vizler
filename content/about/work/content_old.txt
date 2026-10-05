@@ -1,0 +1,4 @@
+EN: Full content in English for the About section.
+RU: Полный текст на русском для раздела О нас.
+UZ: To‘liq matn o‘zbek tilida About bo‘limi uchun.
+TJ: Матни пурра ба тоҷикӣ барои бахши Дар бораи ман.

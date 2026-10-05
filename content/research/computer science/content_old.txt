@@ -1,0 +1,4 @@
+TJ: Дар ин бахш ман мақолаҳо ва назарияҳои худро оид ба илмҳои компютерӣ пешниҳод мекунам. Шумо метавонед бо таҳқиқот, таҷриба ва фикру ақидаҳои ман дар соҳаи технологияи муосир ошно шавед.
+UZ: Ushbu bo‘limda men maqolalarim va nazariyalarimni kompyuter fanlari bo‘yicha taqdim qilaman. Siz zamonaviy texnologiyalar va mening tadqiqotlarim bilan tanishishingiz mumkin.
+EN: In this section, I share my articles and ideas on computer science. You can explore my research, experience, and insights in the field of modern technology.
+RU: В этом разделе я публикую свои статьи и идеи по компьютерным наукам. Вы можете ознакомиться с моими исследованиями, опытом и взглядами в области современных технологий.

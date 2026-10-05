@@ -1,0 +1,4 @@
+EN: Research | Short description of research
+RU: Исследования | Краткое описание исследований
+UZ: Tadqiqot | Tadqiqot bo'yicha qisqa tavsif
+TJ: Тадқиқот | Тавсифи кӯтоҳ оид ба тадқиқот

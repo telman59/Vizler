@@ -1,0 +1,113 @@
+<?xml version="1.0" ?>
+<menus>
+    <menu name="about">
+        <title lang="EN">About me</title>
+        <definition lang="EN">This section is the me</definition>
+        <title lang="RU">О себе</title>
+        <definition lang="RU">Это раздел о себе</definition>
+        <title lang="UZ">Men haqimda</title>
+        <definition lang="UZ">Bu qisqa tavsif</definition>
+        <title lang="TJ">Дар бораи ман</title>
+        <definition lang="TJ">Ин тавсифи кӯтоҳ</definition>
+        <menu name="childhood">
+            <title lang="EN">My childhood</title>
+            <definition lang="EN">Getting to know the world - my childhood</definition>
+            <title lang="RU">Мое детство</title>
+            <definition lang="RU">Познание мира — мое детство</definition>
+            <title lang="UZ">Mening bolaligim</title>
+            <definition lang="UZ">Dunyoni anglash — mening bolalik davrim</definition>
+            <title lang="TJ">Кӯдакии ман</title>
+            <definition lang="TJ">Шиносоӣ бо олам — даврони кӯдакии ман</definition>
+            <menu name="A Gift to the School">
+                <title lang="EN">A Gift to the School</title>
+                <definition lang="EN">My first, unusual visit to school</definition>
+                <title lang="RU">Подарок школе</title>
+                <definition lang="RU">Мой первый, необычный визит в школу</definition>
+                <title lang="UZ">Maktabga tuhfa</title>
+                <definition lang="UZ">Maktabga birinchi, g'ayrioddiy tashrifim</definition>
+                <title lang="TJ">Туҳфа ба мактаб</title>
+                <definition lang="TJ">Аввалин сафари ғайриоддии ман ба мактаб</definition>
+            </menu>
+        </menu>
+        <menu name="pension">
+            <title lang="EN">Old age</title>
+            <definition lang="EN">From retirement to the farewell to life</definition>
+            <title lang="RU">Пожилой возраст</title>
+            <definition lang="RU">От выхода на пенсию до прощания с жизнью</definition>
+            <title lang="UZ">Qarilik davrim</title>
+            <definition lang="UZ">Nafaqaga cchiqishdan to hayot bilan khayrlashuvgacha</definition>
+            <title lang="TJ">Даврони пирӣ</title>
+            <definition lang="TJ">Аз баромадан ба нафақа то видоъ бо ҳаёт</definition>
+        </menu>
+        <menu name="student">
+            <title lang="EN">Student Years</title>
+            <definition lang="EN">The stage of discovering science and academia</definition>
+            <title lang="RU">Студенческие годы</title>
+            <definition lang="RU">Этап знакомства с наукой и дисциплинами</definition>
+            <title lang="UZ">Talabalik davri</title>
+            <definition lang="UZ">Ilm-fan bilan tanishish bosqichi</definition>
+            <title lang="TJ">Даврони донишҷӯӣ</title>
+            <definition lang="TJ">Марҳилаи ошноӣ бо илму фан</definition>
+        </menu>
+        <menu name="teenager">
+            <title lang="EN">School Years</title>
+            <definition lang="EN">The first decade on the path of life</definition>
+            <title lang="RU">Школьные годы</title>
+            <definition lang="RU">Первое десятилетие на пути жизни</definition>
+            <title lang="UZ">Maktab davri</title>
+            <definition lang="UZ">Hayot yo‘lidagi ilk o‘n yillik</definition>
+            <title lang="TJ">Даврони мактабхонӣ</title>
+            <definition lang="TJ">Даҳсолаи нахустин дар ҷодаи зиндагӣ</definition>
+        </menu>
+        <menu name="work">
+            <title lang="EN">Professional Years</title>
+            <definition lang="EN">The stage of scientific, engineering, and teaching activities</definition>
+            <title lang="RU">Годы профессиональной деятельности</title>
+            <definition lang="RU">Этап научной, инженерной и педагогической работы</definition>
+            <title lang="UZ">Faoliyat davri</title>
+            <definition lang="UZ">Ilmiy, muhandislik va pedagogik ishlar bosqichi</definition>
+            <title lang="TJ">Даврони фаъолият</title>
+            <definition lang="TJ">Марҳилаи корҳои илмӣ, муҳандисӣ ва омӯзгорӣ</definition>
+        </menu>
+    </menu>
+    <menu name="culture">
+        <title lang="EN">Culture</title>
+        <definition lang="EN">Page about our traditions, arts and culture</definition>
+        <title lang="RU">Культура</title>
+        <definition lang="RU">Страница о наших традициях, искусстве и культуре</definition>
+        <title lang="UZ">Madaniyat</title>
+        <definition lang="UZ">Sahifa madaniyatimiz, an'analar va san'at haqida</definition>
+        <title lang="TJ">Маданият</title>
+        <definition lang="TJ">Саҳифа дар бораи суннатҳо, санъат ва фарҳанги мо</definition>
+    </menu>
+    <menu name="research">
+        <title lang="EN">Research</title>
+        <definition lang="EN">Short description of research</definition>
+        <title lang="RU">Исследования</title>
+        <definition lang="RU">Краткое описание исследований</definition>
+        <title lang="UZ">Tadqiqot</title>
+        <definition lang="UZ">Tadqiqot bo'yicha qisqa tavsif</definition>
+        <title lang="TJ">Тадқиқот</title>
+        <definition lang="TJ">Тавсифи кӯтоҳ оид ба тадқиқот</definition>
+        <menu name="Pedagogy">
+            <title lang="EN">Pedagogy</title>
+            <definition lang="EN">Page about teaching theory and practice</definition>
+            <title lang="RU">Педагогика</title>
+            <definition lang="RU">Страница о теориях и практике образования</definition>
+            <title lang="UZ">Pedagogika</title>
+            <definition lang="UZ">Sahifa ta'lim nazariyasi va tajribasi haqida</definition>
+            <title lang="TJ">Педагогика</title>
+            <definition lang="TJ">Саҳифа дар бораи назария ва таҷрибаи таълим</definition>
+        </menu>
+        <menu name="computer science">
+            <title lang="EN">Computer Science</title>
+            <definition lang="EN">Page about computer science theory and practice</definition>
+            <title lang="RU">Компьютерная наука</title>
+            <definition lang="RU">Страница о теории и практике компьютерных наук</definition>
+            <title lang="UZ">Kompyuter fanlari</title>
+            <definition lang="UZ">Sahifa kompyuter fanlari nazariyasi va tajribasi haqida</definition>
+            <title lang="TJ">Компьютерная илм</title>
+            <definition lang="TJ">Саҳифа дар бораи назария ва таҷрибаи илмҳои компютерӣ</definition>
+        </menu>
+    </menu>
+</menus>

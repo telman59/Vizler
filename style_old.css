@@ -27,13 +27,12 @@ body{
     gap: 20px;
 }
 
-/* Кнопки языков — горизонтально, слева */
+/* Кнопки языков — слева */
 #lang-switch{
     display: flex;
-    flex-direction: row;
-    gap: 6px;
+    flex-direction: column;
+    gap: 4px;
     flex-shrink: 0;
-    align-items: center;
 }
 
 #lang-switch button{
@@ -67,16 +66,11 @@ body{
     margin: 2px 0 0 0;
     font-size: 13px;
     opacity: 0.85;
-    white-space: normal;
-    max-width: 400px;
-    margin-left: auto;
-    margin-right: auto;
-    line-height: 1.4;
 }
 
-/* Фото — справа, увеличенное */
+/* Фото — справа */
 .photo-block img{
-    height: 80px;
+    height: 60px;
     border-radius: 8px;
     flex-shrink: 0;
 }
@@ -99,19 +93,11 @@ body{
     cursor: pointer;
 }
 
-/* Левый блок: язык + меню + крошки */
-.header-left {
-    display: flex;
-    flex-direction: column;
-    gap: 4px;
-    flex-shrink: 0;
-}
-
 /* ===== MENU ===== */
 #main-menu ul{
     list-style: none;
     padding: 0;
-    margin: 0;
+    margin-top: 6px;
     display: flex;
     gap: 25px;
 }
@@ -189,7 +175,7 @@ body{
 /* ===== MAIN CONTENT ===== */
 main{
     margin-top: 0;
-    padding-top: 110px;
+    padding-top: 130px;
     padding-left: 40px;
     padding-right: 40px;
     padding-bottom: 40px;
@@ -320,160 +306,4 @@ main{
         font-size: 16px;
         padding: 20px;
     }
-}
-
-/* ===== СТИЛИ ДЛЯ СТРАНИЦ-ОГЛАВЛЕНИЙ ===== */
-#content-area .index-header {
-    text-align: center;
-    padding: 30px 20px 24px;
-    border-bottom: 1px solid rgba(184,134,11,0.3);
-    margin-bottom: 32px;
-}
-
-#content-area .index-header h2 {
-    font-family: Georgia, serif;
-    font-size: 26px;
-    font-weight: bold;
-    color: #5a3a1a;
-    font-style: italic;
-    margin-bottom: 8px;
-    line-height: 1.3;
-}
-
-#content-area .index-ornament {
-    color: #b8860b;
-    font-size: 18px;
-    letter-spacing: 8px;
-    display: block;
-    margin: 8px 0;
-}
-
-#content-area .index-subtitle {
-    font-size: 14px;
-    color: #8a6a3a;
-    font-style: italic;
-    margin-top: 6px;
-}
-
-#content-area .index-intro {
-    font-size: 16px;
-    color: #6b4c38;
-    font-style: italic;
-    text-align: center;
-    margin-bottom: 32px;
-    line-height: 1.7;
-}
-
-#content-area .articles {
-    display: flex;
-    flex-direction: column;
-    gap: 18px;
-}
-
-#content-area .article-card {
-    border: 1px solid rgba(184,134,11,0.3);
-    border-radius: 4px;
-    padding: 22px 28px;
-    cursor: pointer;
-    transition: border-color 0.3s, background 0.3s;
-    text-decoration: none;
-    display: block;
-    color: #3d2b1f;
-}
-
-#content-area .article-card:hover {
-    border-color: #b8860b;
-    background: rgba(184,134,11,0.05);
-}
-
-#content-area .article-card .tag {
-    font-size: 11px;
-    letter-spacing: 2px;
-    color: #b8860b;
-    text-transform: uppercase;
-    margin-bottom: 8px;
-}
-
-#content-area .article-card h3 {
-    font-family: Georgia, serif;
-    font-size: 18px;
-    font-weight: bold;
-    color: #3d2b1f;
-    line-height: 1.4;
-    margin-bottom: 6px;
-}
-
-#content-area .article-card:hover h3 {
-    color: #b8860b;
-}
-
-#content-area .article-card .description {
-    font-size: 14px;
-    color: #6b4c38;
-    line-height: 1.6;
-    margin-bottom: 10px;
-}
-
-#content-area .article-card .arrow {
-    color: #b8860b;
-    font-size: 13px;
-    letter-spacing: 1px;
-}
-
-/* ===== СТИЛИ ДЛЯ СТИХОВ ===== */
-#content-area .poem-section {
-    margin: 40px 0;
-    padding: 30px 40px;
-    border-left: 3px solid #b8860b;
-    background: rgba(184,134,11,0.05);
-    border-radius: 0 4px 4px 0;
-}
-
-#content-area .poem-title {
-    font-family: Georgia, serif;
-    font-size: 20px;
-    color: #5a3a1a;
-    font-style: italic;
-    font-weight: bold;
-    margin-bottom: 24px;
-    text-align: center;
-}
-
-#content-area .poem-stanza {
-    margin-bottom: 28px;
-}
-
-#content-area .poem-stanza p {
-    text-align: left;
-    color: #3d2b1f;
-    margin-bottom: 0;
-    font-style: italic;
-    font-size: 16px;
-    line-height: 1.2;
-}
-
-/* Списки в статьях */
-#content-area .article-list {
-    margin: 10px 0 20px 30px;
-    padding: 0;
-}
-
-#content-area .article-list li {
-    font-size: 17px;
-    line-height: 1.9;
-    color: #3d2b1f;
-    margin-bottom: 6px;
-}
-
-#content-area .references-list {
-    margin: 10px 0 20px 20px;
-    padding: 0;
-    list-style: none;
-}
-
-#content-area .references-list li {
-    font-size: 15px;
-    line-height: 1.7;
-    color: #6b4c38;
-    margin-bottom: 8px;
 }

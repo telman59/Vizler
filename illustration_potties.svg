@@ -1,0 +1,120 @@
+<svg width="100%" viewBox="0 0 680 440" role="img" xmlns="http://www.w3.org/2000/svg">
+<title>Два мальчика сидят на горшках в коридоре садика и шепчутся о побеге</title>
+<desc>Иллюстрация: два маленьких мальчика сидят попой на горшках в коридоре старого здания и шепчутся о побеге в школу</desc>
+<defs>
+  <marker id="arr" viewBox="0 0 10 10" refX="8" refY="5" markerWidth="6" markerHeight="6" orient="auto-start-reverse">
+    <path d="M2 1L8 5L2 9" fill="none" stroke="#c8a050" stroke-width="1.5" stroke-linecap="round" stroke-linejoin="round"/>
+  </marker>
+</defs>
+<style>
+  .floor { fill: #c8a96e; }
+  .wall { fill: #f5efe0; }
+  .wall-line { stroke: #d4c4a0; stroke-width: 0.8; fill: none; }
+  .door { fill: #8B6914; }
+  .door-frame { fill: #6B4F0A; }
+  .piano { fill: #2c1a0e; }
+  .piano-keys { fill: #f5f0e8; }
+  .piano-key-black { fill: #1a0a00; }
+  .clothes { fill: #5b8dd9; }
+  .clothes2 { fill: #c0392b; }
+  .potty { fill: #e8d5b0; stroke: #b8a070; stroke-width: 1.2; }
+  .potty-rim { fill: #d4bc8a; stroke: #b8a070; stroke-width: 1; }
+  .skin { fill: #d4956a; }
+  .hair { fill: #2c1a0e; }
+  .shirt1 { fill: #4a7fbf; }
+  .shirt2 { fill: #8B4513; }
+  .pants { fill: #3d5a80; }
+  .pants2 { fill: #4a4a4a; }
+  .shadow { fill: rgba(0,0,0,0.08); }
+  .bubble { fill: #fffdf5; stroke: #c8a050; stroke-width: 1.2; }
+  .bubble-text { font-family: Georgia, serif; font-size: 13px; fill: #3d2b0a; }
+  .window { fill: #a8c8e8; stroke: #7a9ab8; stroke-width: 1.5; }
+  .window-frame { fill: #8B6914; }
+  .sunlight { fill: rgba(255, 220, 100, 0.12); }
+</style>
+<rect x="0" y="0" width="680" height="440" class="wall"/>
+<rect x="0" y="320" width="680" height="120" class="floor"/>
+<line x1="0" y1="320" x2="680" y2="320" class="wall-line"/>
+<line x1="0" y1="338" x2="680" y2="338" class="wall-line"/>
+<line x1="0" y1="356" x2="680" y2="356" class="wall-line"/>
+<line x1="0" y1="374" x2="680" y2="374" class="wall-line"/>
+<line x1="80" y1="320" x2="80" y2="440" class="wall-line"/>
+<line x1="200" y1="320" x2="200" y2="440" class="wall-line"/>
+<line x1="320" y1="320" x2="320" y2="440" class="wall-line"/>
+<line x1="440" y1="320" x2="440" y2="440" class="wall-line"/>
+<line x1="560" y1="320" x2="560" y2="440" class="wall-line"/>
+<rect x="500" y="40" width="130" height="180" class="window-frame" rx="4"/>
+<rect x="510" y="50" width="110" height="160" class="window" rx="2"/>
+<line x1="565" y1="50" x2="565" y2="210" stroke="#7a9ab8" stroke-width="1.5"/>
+<line x1="510" y1="130" x2="620" y2="130" stroke="#7a9ab8" stroke-width="1.5"/>
+<polygon points="510,50 620,50 680,320 380,320" class="sunlight"/>
+<rect x="20" y="130" width="110" height="185" class="piano" rx="3"/>
+<rect x="25" y="140" width="100" height="20" class="piano-keys" rx="1"/>
+<rect x="30" y="142" width="8" height="14" class="piano-key-black" rx="1"/>
+<rect x="45" y="142" width="8" height="14" class="piano-key-black" rx="1"/>
+<rect x="65" y="142" width="8" height="14" class="piano-key-black" rx="1"/>
+<rect x="80" y="142" width="8" height="14" class="piano-key-black" rx="1"/>
+<rect x="95" y="142" width="8" height="14" class="piano-key-black" rx="1"/>
+<rect x="25" y="165" width="100" height="8" class="piano-keys" rx="1"/>
+<rect x="25" y="315" width="15" height="10" rx="2" fill="#1a0a00"/>
+<rect x="110" y="315" width="15" height="10" rx="2" fill="#1a0a00"/>
+<circle cx="640" cy="80" r="4" fill="#8B6914"/>
+<circle cx="615" cy="80" r="4" fill="#8B6914"/>
+<line x1="640" y1="80" x2="640" y2="98" stroke="#8B6914" stroke-width="3"/>
+<line x1="615" y1="80" x2="615" y2="98" stroke="#8B6914" stroke-width="3"/>
+<path d="M625,98 Q640,108 636,178 Q632,188 627,183 Q622,188 618,183 Q614,178 620,108 Z" class="clothes"/>
+<path d="M600,98 Q613,106 610,158 Q606,166 602,163 Q598,166 594,163 Q590,158 596,106 Z" class="clothes2"/>
+<rect x="370" y="120" width="90" height="200" class="door-frame" rx="2"/>
+<rect x="375" y="125" width="80" height="190" class="door" rx="1"/>
+<circle cx="376" cy="225" r="5" fill="#d4a800"/>
+<path d="M455,125 L485,95 L485,315 L455,315 Z" fill="rgba(255,220,100,0.18)"/>
+<line x1="0" y1="115" x2="680" y2="115" class="wall-line"/>
+<ellipse cx="220" cy="322" rx="24" ry="7" class="shadow"/>
+<path d="M196,295 Q196,322 220,322 Q244,322 244,295 Z" class="potty"/>
+<ellipse cx="220" cy="295" rx="24" ry="8" class="potty-rim"/>
+<rect x="202" y="220" width="36" height="50" class="shirt1" rx="5"/>
+<rect x="200" y="268" width="40" height="20" class="pants" rx="4"/>
+<path d="M204,288 Q194,300 188,315 Q185,322 192,323 Q198,323 200,315 Q204,305 208,293 Z" class="pants"/>
+<ellipse cx="192" cy="324" rx="10" ry="5" fill="#d4956a"/>
+<path d="M236,288 Q246,300 252,315 Q255,322 248,323 Q242,323 240,315 Q236,305 232,293 Z" class="pants"/>
+<ellipse cx="248" cy="324" rx="10" ry="5" fill="#d4956a"/>
+<path d="M202,235 Q188,245 182,255" stroke="#d4956a" stroke-width="9" fill="none" stroke-linecap="round"/>
+<path d="M238,235 Q255,228 268,225" stroke="#d4956a" stroke-width="9" fill="none" stroke-linecap="round"/>
+<circle cx="220" cy="200" r="28" class="skin"/>
+<path d="M192,194 Q196,168 220,166 Q244,168 248,194 Q240,178 220,176 Q200,178 192,194 Z" class="hair"/>
+<ellipse cx="192" cy="203" rx="5" ry="7" class="skin"/>
+<ellipse cx="248" cy="203" rx="5" ry="7" class="skin"/>
+<ellipse cx="212" cy="198" rx="5" ry="5" fill="white"/>
+<ellipse cx="228" cy="198" rx="5" ry="5" fill="white"/>
+<circle cx="215" cy="198" r="3" fill="#2c1a0e"/>
+<circle cx="231" cy="198" r="3" fill="#2c1a0e"/>
+<path d="M212,212 Q220,217 228,212" stroke="#8B4513" stroke-width="1.5" fill="none"/>
+<ellipse cx="318" cy="322" rx="24" ry="7" class="shadow"/>
+<path d="M294,295 Q294,322 318,322 Q342,322 342,295 Z" class="potty"/>
+<ellipse cx="318" cy="295" rx="24" ry="8" class="potty-rim"/>
+<rect x="300" y="220" width="36" height="50" class="shirt2" rx="5"/>
+<rect x="298" y="268" width="40" height="20" class="pants2" rx="4"/>
+<path d="M302,288 Q292,300 286,315 Q283,322 290,323 Q296,323 298,315 Q302,305 306,293 Z" class="pants2"/>
+<ellipse cx="290" cy="324" rx="10" ry="5" fill="#d4956a"/>
+<path d="M334,288 Q344,300 350,315 Q353,322 346,323 Q340,323 338,315 Q334,305 330,293 Z" class="pants2"/>
+<ellipse cx="346" cy="324" rx="10" ry="5" fill="#d4956a"/>
+<path d="M300,235 Q286,240 278,248" stroke="#d4956a" stroke-width="9" fill="none" stroke-linecap="round"/>
+<path d="M336,235 Q348,232 358,230" stroke="#d4956a" stroke-width="9" fill="none" stroke-linecap="round"/>
+<circle cx="318" cy="200" r="28" class="skin"/>
+<path d="M290,193 Q294,167 318,165 Q342,167 346,193 Q338,177 318,175 Q298,177 290,193 Z" class="hair"/>
+<ellipse cx="290" cy="203" rx="5" ry="7" class="skin"/>
+<ellipse cx="346" cy="203" rx="5" ry="7" class="skin"/>
+<ellipse cx="306" cy="196" rx="5" ry="6" fill="white"/>
+<ellipse cx="322" cy="196" rx="5" ry="6" fill="white"/>
+<circle cx="307" cy="197" r="3" fill="#2c1a0e"/>
+<circle cx="323" cy="197" r="3" fill="#2c1a0e"/>
+<path d="M303,187 Q307,183 313,185" stroke="#2c1a0e" stroke-width="1.5" fill="none"/>
+<path d="M319,185 Q325,182 329,185" stroke="#2c1a0e" stroke-width="1.5" fill="none"/>
+<ellipse cx="318" cy="212" rx="5" ry="4" fill="#8B4513"/>
+<path d="M238,155 Q238,105 305,105 Q372,105 372,140 Q372,172 305,172 Q278,172 262,164 Q257,172 238,167 Q250,164 245,157 Q238,154 238,155 Z" class="bubble"/>
+<text x="260" y="128" class="bubble-text" text-anchor="middle">Мехоҳӣ</text>
+<text x="272" y="146" class="bubble-text" text-anchor="middle">фирор кунем?</text>
+<text x="305" y="163" class="bubble-text" text-anchor="middle" font-style="italic" font-size="11">«Хочешь сбежать?»</text>
+<text x="358" y="155" font-family="Georgia,serif" font-size="34" fill="#8B6914" font-weight="bold">?</text>
+<path d="M418,210 Q445,210 452,210" stroke="#c8a050" stroke-width="1.5" fill="none" stroke-dasharray="4,3" marker-end="url(#arr)"/>
+</svg>

@@ -11,32 +11,29 @@
 
 <header class="header">
 
+  <!-- Одна строка: кнопки языков | заголовок + описание | фото -->
   <div class="header-top">
 
-    <!-- Левая часть: кнопки языков + меню под ними -->
-    <div class="header-left">
-      <div id="lang-switch">
-        <button onclick="setLang('TJ')">TJ</button>
-        <button onclick="setLang('UZ')">UZ</button>
-        <button onclick="setLang('EN')">EN</button>
-        <button onclick="setLang('RU')">RU</button>
-      </div>
-      <nav id="main-menu"></nav>
-      <div id="breadcrumbs"></div>
+    <div id="lang-switch">
+      <button onclick="setLang('TJ')">TJ</button>
+      <button onclick="setLang('UZ')">UZ</button>
+      <button onclick="setLang('EN')">EN</button>
+      <button onclick="setLang('RU')">RU</button>
     </div>
 
-    <!-- Центр: заголовок -->
     <div class="title-block">
       <h1 id="page-title">Loading...</h1>
       <p id="page-description"></p>
     </div>
 
-    <!-- Правая часть: фото -->
     <div class="photo-block">
       <img src="assets/me.png" alt="me">
     </div>
 
   </div>
+
+  <nav id="main-menu"></nav>
+  <div id="breadcrumbs"></div>
 
 </header>
 

@@ -1,0 +1,4 @@
+EN: Full research content in English
+RU: Полный текст исследований на русском
+UZ: Tadqiqot matni to‘liq o‘zbek tilida
+TJ: Матни пурра оид ба тадқиқот ба тоҷикӣ

@@ -1,0 +1,4 @@
+EN: About me| This section is the me 
+RU: О себе | Это раздел о себе
+UZ: Men haqimda | Bu qisqa tavsif
+TJ: Дар бораи ман | Ин тавсифи кӯтоҳ
