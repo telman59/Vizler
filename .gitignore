@@ -1,0 +1,23 @@
+# Mac системные файлы
+.DS_Store
+**/.DS_Store
+
+# Старые файлы
+menu.old
+style_old.css
+index_old.html
+submenu.js
+**/content_old*.html
+**/content_old.txt
+
+# Тестовые файлы
+111_restored*.jpeg
+Archive.zip
+illustration_potties (1).svg
+content/style.css
+content/test.html
+
+# Черновики
+generate_menu.py
+*.docx
+*.zip
