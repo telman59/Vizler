@@ -19,15 +19,15 @@
             <title lang="TJ">Кӯдакии ман</title>
             <definition lang="TJ">Шиносоӣ бо олам — даврони кӯдакии ман</definition>
         </menu>
-        <menu name="pension">
-            <title lang="EN">Old age</title>
-            <definition lang="EN">From retirement to the farewell to life</definition>
-            <title lang="RU">Пожилой возраст</title>
-            <definition lang="RU">От выхода на пенсию до прощания с жизнью</definition>
-            <title lang="UZ">Qarilik davrim</title>
-            <definition lang="UZ">Nafaqaga cchiqishdan to hayot bilan khayrlashuvgacha</definition>
-            <title lang="TJ">Даврони пирӣ</title>
-            <definition lang="TJ">Аз баромадан ба нафақа то видоъ бо ҳаёт</definition>
+        <menu name="teenager">
+            <title lang="EN">School Years</title>
+            <definition lang="EN">The first decade on the path of life</definition>
+            <title lang="RU">Школьные годы</title>
+            <definition lang="RU">Первое десятилетие на пути жизни</definition>
+            <title lang="UZ">Maktab davri</title>
+            <definition lang="UZ">Hayot yo‘lidagi ilk o‘n yillik</definition>
+            <title lang="TJ">Даврони мактабхонӣ</title>
+            <definition lang="TJ">Даҳсолаи нахустин дар ҷодаи зиндагӣ</definition>
         </menu>
         <menu name="student">
             <title lang="EN">Student Years</title>
@@ -39,16 +39,6 @@
             <title lang="TJ">Даврони донишҷӯӣ</title>
             <definition lang="TJ">Марҳилаи ошноӣ бо илму фан</definition>
         </menu>
-        <menu name="teenager">
-            <title lang="EN">School Years</title>
-            <definition lang="EN">The first decade on the path of life</definition>
-            <title lang="RU">Школьные годы</title>
-            <definition lang="RU">Первое десятилетие на пути жизни</definition>
-            <title lang="UZ">Maktab davri</title>
-            <definition lang="UZ">Hayot yo‘lidagi ilk o‘n yillik</definition>
-            <title lang="TJ">Даврони мактабхонӣ</title>
-            <definition lang="TJ">Даҳсолаи нахустин дар ҷодаи зиндагӣ</definition>
-        </menu>
         <menu name="work">
             <title lang="EN">Professional Years</title>
             <definition lang="EN">The stage of scientific, engineering, and teaching activities</definition>
@@ -58,6 +48,16 @@
             <definition lang="UZ">Ilmiy, muhandislik va pedagogik ishlar bosqichi</definition>
             <title lang="TJ">Даврони фаъолият</title>
             <definition lang="TJ">Марҳилаи корҳои илмӣ, муҳандисӣ ва омӯзгорӣ</definition>
+        </menu>
+        <menu name="pension">
+            <title lang="EN">Old age</title>
+            <definition lang="EN">From retirement to the farewell to life</definition>
+            <title lang="RU">Пожилой возраст</title>
+            <definition lang="RU">От выхода на пенсию до прощания с жизнью</definition>
+            <title lang="UZ">Qarilik davrim</title>
+            <definition lang="UZ">Nafaqaga cchiqishdan to hayot bilan khayrlashuvgacha</definition>
+            <title lang="TJ">Даврони пирӣ</title>
+            <definition lang="TJ">Аз баромадан ба нафақа то видоъ бо ҳаёт</definition>
         </menu>
     </menu>
     <menu name="culture">

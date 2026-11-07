@@ -60,6 +60,13 @@ function loadContent(path){
     })
 }
 
+window.openMenu = function(menuPath){
+    currentPath = menuPath
+    rebuildBreadcrumbsFromPath(menuPath)
+    loadContent(menuPath)
+    window.scrollTo({top: 0, behavior: "smooth"})
+}
+
 // Загружает любой HTML файл в #content-area
 // Используй в ссылках оглавления: onclick="loadFile('content/about/childhood/story1.html')"
 // window.loadFile = function(filePath){            // commented 19.07.2026
