@@ -159,8 +159,14 @@ body{
     flex-direction: column;
 }
 
+/* Третий уровень: открывается сбоку от родительского пункта */
+#main-menu ul ul ul {
+    top: -10px;
+    left: 100%;
+}
+
 /* Зона захвата чтобы подменю не исчезало при зазоре */
-#main-menu li::after {
+#main-menu > ul > li::after {
     content: "";
     position: absolute;
     top: 100%;
@@ -476,4 +482,8 @@ main{
     line-height: 1.7;
     color: #6b4c38;
     margin-bottom: 8px;
+}
+
+#main-menu ul ul li:has(> ul) > span::after {
+    content: " ›";
 }

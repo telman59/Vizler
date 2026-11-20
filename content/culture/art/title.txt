@@ -1,0 +1,4 @@
+EN: Art | Visual and performing arts
+RU: Искусство | Изобразительное и исполнительское искусство
+UZ: San'at | Tasviriy va ijro san'ati
+TJ: Санъат | Санъати тасвирӣ ва иҷроӣ

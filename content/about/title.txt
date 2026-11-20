@@ -1,4 +1,4 @@
-EN: About me| This section is the me 
-RU: О себе | Это раздел о себе
-UZ: Men haqimda | Bu qisqa tavsif
-TJ: Дар бораи ман | Ин тавсифи кӯтоҳ
+EN: About me| Information about my life 
+RU: О себе | Сведения о моей жизни
+UZ: Men haqimda | Hayotim haqida ma'lumotlar
+TJ: Дар бораи ман | Маълумот дар бораи ҳаёти ман

@@ -1,4 +1,4 @@
-EN: Research | Short description of research
-RU: Исследования | Краткое описание исследований
-UZ: Tadqiqot | Tadqiqot bo'yicha qisqa tavsif
-TJ: Тадқиқот | Тавсифи кӯтоҳ оид ба тадқиқот
+EN: Research | Results of my scientific research
+RU: Исследования | Результаты моих научных исследований
+UZ: Tadqiqot | Ilmiy tadqiqotlarim natijalari
+TJ: Тадқиқот | Натиҷаҳои тадқиқотҳои илмии ман

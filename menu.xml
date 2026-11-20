@@ -2,13 +2,13 @@
 <menus>
     <menu name="about">
         <title lang="EN">About me</title>
-        <definition lang="EN">This section is the me</definition>
+        <definition lang="EN">Information about my life</definition>
         <title lang="RU">О себе</title>
-        <definition lang="RU">Это раздел о себе</definition>
+        <definition lang="RU">Сведения о моей жизни</definition>
         <title lang="UZ">Men haqimda</title>
-        <definition lang="UZ">Bu qisqa tavsif</definition>
+        <definition lang="UZ">Hayotim haqida ma'lumotlar</definition>
         <title lang="TJ">Дар бораи ман</title>
-        <definition lang="TJ">Ин тавсифи кӯтоҳ</definition>
+        <definition lang="TJ">Маълумот дар бораи ҳаёти ман</definition>
         <menu name="childhood">
             <title lang="EN">My childhood</title>
             <definition lang="EN">Getting to know the world - my childhood</definition>
@@ -69,6 +69,106 @@
         <definition lang="UZ">Sahifa madaniyatimiz, an'analar va san'at haqida</definition>
         <title lang="TJ">Маданият</title>
         <definition lang="TJ">Саҳифа дар бораи суннатҳо, санъат ва фарҳанги мо</definition>
+        <menu name="architecture">
+            <title lang="EN">Architecture</title>
+            <definition lang="EN">Architectural monuments and the art of building</definition>
+            <title lang="RU">Архитектура</title>
+            <definition lang="RU">Памятники архитектуры и искусство строительства</definition>
+            <title lang="UZ">Me'morchilik</title>
+            <definition lang="UZ">Me'moriy yodgorliklar va qurilish san'ati</definition>
+            <title lang="TJ">Меъморӣ</title>
+            <definition lang="TJ">Ёдгориҳои меъморӣ ва санъати бинокорӣ</definition>
+        </menu>
+        <menu name="art">
+            <title lang="EN">Art</title>
+            <definition lang="EN">Visual and performing arts</definition>
+            <title lang="RU">Искусство</title>
+            <definition lang="RU">Изобразительное и исполнительское искусство</definition>
+            <title lang="UZ">San'at</title>
+            <definition lang="UZ">Tasviriy va ijro san'ati</definition>
+            <title lang="TJ">Санъат</title>
+            <definition lang="TJ">Санъати тасвирӣ ва иҷроӣ</definition>
+            <menu name="cinema">
+                <title lang="EN">Cinema</title>
+                <definition lang="EN">Films and the art of cinema</definition>
+                <title lang="RU">Кино</title>
+                <definition lang="RU">Фильмы и киноискусство</definition>
+                <title lang="UZ">Kino</title>
+                <definition lang="UZ">Filmlar va kino san'ati</definition>
+                <title lang="TJ">Кино</title>
+                <definition lang="TJ">Филмҳо ва санъати кино</definition>
+            </menu>
+            <menu name="design">
+                <title lang="EN">Design</title>
+                <definition lang="EN">Design and applied arts</definition>
+                <title lang="RU">Дизайн</title>
+                <definition lang="RU">Дизайн и прикладное искусство</definition>
+                <title lang="UZ">Dizayn</title>
+                <definition lang="UZ">Dizayn va amaliy san'at</definition>
+                <title lang="TJ">Дизайн</title>
+                <definition lang="TJ">Дизайн ва санъати амалӣ</definition>
+            </menu>
+            <menu name="painting">
+                <title lang="EN">Painting</title>
+                <definition lang="EN">Painters and the art of painting</definition>
+                <title lang="RU">Живопись</title>
+                <definition lang="RU">Художники и искусство живописи</definition>
+                <title lang="UZ">Rassomlik</title>
+                <definition lang="UZ">Rassomlar va tasviriy san'at</definition>
+                <title lang="TJ">Рассомӣ</title>
+                <definition lang="TJ">Рассомон ва санъати тасвирӣ</definition>
+            </menu>
+            <menu name="photography">
+                <title lang="EN">Photography</title>
+                <definition lang="EN">The art of photography</definition>
+                <title lang="RU">Фотография</title>
+                <definition lang="RU">Искусство фотографии</definition>
+                <title lang="UZ">Fotografiya</title>
+                <definition lang="UZ">Fotosan'at</definition>
+                <title lang="TJ">Аксбардорӣ</title>
+                <definition lang="TJ">Санъати аксбардорӣ</definition>
+            </menu>
+            <menu name="sculpture">
+                <title lang="EN">Sculpture</title>
+                <definition lang="EN">The art of sculpture</definition>
+                <title lang="RU">Скульптура</title>
+                <definition lang="RU">Искусство скульптуры</definition>
+                <title lang="UZ">Haykaltaroshlik</title>
+                <definition lang="UZ">Haykaltaroshlik san'ati</definition>
+                <title lang="TJ">Ҳайкалтарошӣ</title>
+                <definition lang="TJ">Санъати ҳайкалтарошӣ</definition>
+            </menu>
+        </menu>
+        <menu name="heritage">
+            <title lang="EN">Heritage</title>
+            <definition lang="EN">Cultural heritage and traditions</definition>
+            <title lang="RU">Наследие</title>
+            <definition lang="RU">Культурное наследие и традиции</definition>
+            <title lang="UZ">Meros</title>
+            <definition lang="UZ">Madaniy meros va an'analar</definition>
+            <title lang="TJ">Мерос</title>
+            <definition lang="TJ">Мероси фарҳангӣ ва суннатҳо</definition>
+            <menu name="clothing">
+                <title lang="EN">Clothing</title>
+                <definition lang="EN">Traditional clothing</definition>
+                <title lang="RU">Одежда</title>
+                <definition lang="RU">Традиционная одежда</definition>
+                <title lang="UZ">Kiyim-kechak</title>
+                <definition lang="UZ">An'anaviy kiyimlar</definition>
+                <title lang="TJ">Либос</title>
+                <definition lang="TJ">Либоси суннатӣ</definition>
+            </menu>
+            <menu name="customs">
+                <title lang="EN">Customs</title>
+                <definition lang="EN">Customs and rituals</definition>
+                <title lang="RU">Обычаи</title>
+                <definition lang="RU">Обычаи и обряды</definition>
+                <title lang="UZ">Urf-odatlar</title>
+                <definition lang="UZ">Urf-odat va marosimlar</definition>
+                <title lang="TJ">Русум</title>
+                <definition lang="TJ">Суннатҳо ва маросимҳо</definition>
+            </menu>
+        </menu>
         <menu name="history">
             <title lang="EN">History</title>
             <definition lang="EN">This page is about the history of my homeland</definition>
@@ -79,17 +179,97 @@
             <title lang="TJ">Таърих</title>
             <definition lang="TJ">Ин саҳифа дар бораи таърихи зодгоҳи ман аст</definition>
         </menu>
+        <menu name="language">
+            <title lang="EN">Language</title>
+            <definition lang="EN">Language and its history</definition>
+            <title lang="RU">Язык</title>
+            <definition lang="RU">Язык и его история</definition>
+            <title lang="UZ">Til</title>
+            <definition lang="UZ">Til va uning tarixi</definition>
+            <title lang="TJ">Забон</title>
+            <definition lang="TJ">Забон ва таърихи он</definition>
+        </menu>
+        <menu name="music">
+            <title lang="EN">Music</title>
+            <definition lang="EN">Music and musical traditions</definition>
+            <title lang="RU">Музыка</title>
+            <definition lang="RU">Музыка и музыкальные традиции</definition>
+            <title lang="UZ">Musiqa</title>
+            <definition lang="UZ">Musiqa va musiqiy an'analar</definition>
+            <title lang="TJ">Мусиқӣ</title>
+            <definition lang="TJ">Мусиқӣ ва суннатҳои мусиқӣ</definition>
+            <menu name="foreign">
+                <title lang="EN">Foreign music</title>
+                <definition lang="EN">Music of other countries</definition>
+                <title lang="RU">Зарубежная музыка</title>
+                <definition lang="RU">Музыка других стран</definition>
+                <title lang="UZ">Xorijiy musiqa</title>
+                <definition lang="UZ">Boshqa mamlakatlar musiqasi</definition>
+                <title lang="TJ">Мусиқии хориҷӣ</title>
+                <definition lang="TJ">Мусиқии дигар кишварҳо</definition>
+            </menu>
+            <menu name="persian">
+                <title lang="EN">Persian music</title>
+                <definition lang="EN">Music of the Persian-speaking world</definition>
+                <title lang="RU">Персидская музыка</title>
+                <definition lang="RU">Музыка персоязычного мира</definition>
+                <title lang="UZ">Fors musiqasi</title>
+                <definition lang="UZ">Forsiyzabon dunyo musiqasi</definition>
+                <title lang="TJ">Мусиқии форсӣ</title>
+                <definition lang="TJ">Мусиқии ҷаҳони форсизабон</definition>
+            </menu>
+            <menu name="uzbek">
+                <title lang="EN">Uzbek music</title>
+                <definition lang="EN">Uzbek music and songs</definition>
+                <title lang="RU">Узбекская музыка</title>
+                <definition lang="RU">Узбекская музыка и песни</definition>
+                <title lang="UZ">O'zbek musiqasi</title>
+                <definition lang="UZ">O'zbek musiqasi va qo'shiqlari</definition>
+                <title lang="TJ">Мусиқии ӯзбекӣ</title>
+                <definition lang="TJ">Мусиқӣ ва сурудҳои ӯзбекӣ</definition>
+            </menu>
+        </menu>
+        <menu name="prose">
+            <title lang="EN">Prose</title>
+            <definition lang="EN">Prose and literature</definition>
+            <title lang="RU">Проза</title>
+            <definition lang="RU">Проза и литература</definition>
+            <title lang="UZ">Nasr</title>
+            <definition lang="UZ">Nasr va adabiyot</definition>
+            <title lang="TJ">Наср</title>
+            <definition lang="TJ">Наср ва адабиёт</definition>
+        </menu>
+        <menu name="religion">
+            <title lang="EN">Religion</title>
+            <definition lang="EN">Religion and spiritual life</definition>
+            <title lang="RU">Религия</title>
+            <definition lang="RU">Религия и духовная жизнь</definition>
+            <title lang="UZ">Din</title>
+            <definition lang="UZ">Din va ma'naviy hayot</definition>
+            <title lang="TJ">Дин</title>
+            <definition lang="TJ">Дин ва ҳаёти маънавӣ</definition>
+        </menu>
     </menu>
     <menu name="research">
         <title lang="EN">Research</title>
-        <definition lang="EN">Short description of research</definition>
+        <definition lang="EN">Results of my scientific research</definition>
         <title lang="RU">Исследования</title>
-        <definition lang="RU">Краткое описание исследований</definition>
+        <definition lang="RU">Результаты моих научных исследований</definition>
         <title lang="UZ">Tadqiqot</title>
-        <definition lang="UZ">Tadqiqot bo'yicha qisqa tavsif</definition>
+        <definition lang="UZ">Ilmiy tadqiqotlarim natijalari</definition>
         <title lang="TJ">Тадқиқот</title>
-        <definition lang="TJ">Тавсифи кӯтоҳ оид ба тадқиқот</definition>
-        <menu name="Pedagogy">
+        <definition lang="TJ">Натиҷаҳои тадқиқотҳои илмии ман</definition>
+        <menu name="computer science">
+            <title lang="EN">Computer Science</title>
+            <definition lang="EN">Page about computer science theory and practice</definition>
+            <title lang="RU">Компьютерная наука</title>
+            <definition lang="RU">Страница о теории и практике компьютерных наук</definition>
+            <title lang="UZ">Kompyuter fanlari</title>
+            <definition lang="UZ">Sahifa kompyuter fanlari nazariyasi va tajribasi haqida</definition>
+            <title lang="TJ">Илмҳои компютерӣ</title>
+            <definition lang="TJ">Илмҳои компютерӣ ва технологияҳои муосири иттилоотӣ</definition>
+        </menu>
+        <menu name="pedagogy">
             <title lang="EN">Pedagogy</title>
             <definition lang="EN">Page about teaching theory and practice</definition>
             <title lang="RU">Педагогика</title>
@@ -98,16 +278,36 @@
             <definition lang="UZ">Sahifa ta'lim nazariyasi va tajribasi haqida</definition>
             <title lang="TJ">Педагогика</title>
             <definition lang="TJ">Саҳифа дар бораи назария ва таҷрибаи таълим</definition>
-        </menu>
-        <menu name="computer science">
-            <title lang="EN">Computer Science</title>
-            <definition lang="EN">Page about computer science theory and practice</definition>
-            <title lang="RU">Компьютерная наука</title>
-            <definition lang="RU">Страница о теории и практике компьютерных наук</definition>
-            <title lang="UZ">Kompyuter fanlari</title>
-            <definition lang="UZ">Sahifa kompyuter fanlari nazariyasi va tajribasi haqida</definition>
-            <title lang="TJ">Компьютерная илм</title>
-            <definition lang="TJ">Саҳифа дар бораи назария ва таҷрибаи илмҳои компютерӣ</definition>
+            <menu name="higher">
+                <title lang="EN">Higher education</title>
+                <definition lang="EN">Pedagogy and issues of higher education</definition>
+                <title lang="RU">Высшее образование</title>
+                <definition lang="RU">Педагогика и проблемы высшего образования</definition>
+                <title lang="UZ">Oliy ta'lim</title>
+                <definition lang="UZ">Oliy ta'lim pedagogikasi va muammolari</definition>
+                <title lang="TJ">Таҳсилоти олӣ</title>
+                <definition lang="TJ">Педагогика ва мушкилоти таҳсилоти олӣ</definition>
+            </menu>
+            <menu name="preschool">
+                <title lang="EN">Preschool education</title>
+                <definition lang="EN">Pedagogy of early childhood</definition>
+                <title lang="RU">Дошкольное образование</title>
+                <definition lang="RU">Педагогика раннего детства</definition>
+                <title lang="UZ">Maktabgacha ta'lim</title>
+                <definition lang="UZ">Maktabgacha ta'lim pedagogikasi</definition>
+                <title lang="TJ">Таҳсилоти томактабӣ</title>
+                <definition lang="TJ">Педагогикаи кӯдакии барвақт</definition>
+            </menu>
+            <menu name="school">
+                <title lang="EN">School education</title>
+                <definition lang="EN">Pedagogy and school problems</definition>
+                <title lang="RU">Школьное образование</title>
+                <definition lang="RU">Педагогика и проблемы школы</definition>
+                <title lang="UZ">Maktab ta'limi</title>
+                <definition lang="UZ">Maktab ta'limi pedagogikasi va muammolari</definition>
+                <title lang="TJ">Таҳсилоти мактабӣ</title>
+                <definition lang="TJ">Педагогика ва мушкилоти мактаб</definition>
+            </menu>
         </menu>
     </menu>
 </menus>
